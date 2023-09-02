@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo"ls"
+=======
+echo "ls"
+>>>>>>> 73e394ccad11845404cbc0cc83b25274e4517e68
